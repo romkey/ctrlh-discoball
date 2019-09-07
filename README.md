@@ -1,6 +1,6 @@
 # PDX Hackerspace Discoball LED Controller
 
-![image](https://github.com/romkey/ctrlh-discoball/img//bagged-discoball.jpg)
+![image](https://github.com/romkey/ctrlh-discoball/blob/master/img/bagged-discoball.jpg)
 
 Congratulations on getting a Discoball!
 
