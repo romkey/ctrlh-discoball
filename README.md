@@ -2,7 +2,9 @@
 
 ![image](https://github.com/romkey/ctrlh-discoball/blob/master/img/bagged-discoball.jpg)
 
-Congratulations on getting a Discoball! Discoball is open source hardware which runs open source software that lets you control sets of RGB LEDs via a web page or MQTT broker. RGB LEDs are LEDs with built-in controllerxs (like the Adafruit Neopixel), not tricolor LEDs. The  Discoball includes a short strand of 5 LEDs, but you can use much longer strands with it if you want.
+Congratulations on getting a Discoball!
+
+Discoball is open source hardware which runs open source software that lets you control sets of RGB LEDs via a web page or MQTT broker. RGB LEDs are LEDs with built-in controllers (like the [Adafruit Neopixel](https://www.adafruit.com/category/168), not tricolor LEDs. The  Discoball includes a short strand of 5 LEDs, but you can use much longer strands with it if you want.
 
 ## Packing Slip Errata
 
