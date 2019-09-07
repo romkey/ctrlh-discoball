@@ -6,7 +6,7 @@ Congratulations on getting a Discoball! Discoball is open source hardware which 
 
 ## Packing Slip Errata
 
-Your package should also contain one 4 pin header, not listed on the packing slip.
+Your package should also contain one 4 pin header, not listed on the packing slip. This header is for the optional I2C interface pins; you can  ignore it if you're not going to connect an external I2C device.
 
 ## Some Assembly Required
 
@@ -18,7 +18,7 @@ Once you've assembled the circuit you can wire up the included LED strand by con
 
 Once you've assembled the discoball you'll need to build its software. You can find instructions on how to do that at https://github.com/romkey/vendo
 
-Use this for your `config.h` file:
+Use this for your `src/config.h` file:
 ```
 #define NUM_LEDS 5
 #define LED_DATA_PIN 33
