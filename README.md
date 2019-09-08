@@ -22,6 +22,16 @@ Once you've assembled the discoball you'll need to build its software. You can f
 
 Use this for your `src/config.h` file:
 ```
+#define WIFI_SSID1     ""
+#define WIFI_PASSWORD1 ""
+
+#define WIFI_SSID2     ""
+#define WIFI_PASSWORD2 ""
+
+#define WIFI_SSID3     ""
+#define WIFI_PASSWORD3 ""
+
+
 #define NUM_LEDS 5
 #define LED_DATA_PIN 33
 #define LED_TYPE WS2811
@@ -32,3 +42,5 @@ Use this for your `src/config.h` file:
 
 #define VERBOSE
 ```
+
+use the `WIFI_` definitions to compile in up to three sets of wifi network credentials. Leave any you're not using as empty strings.
